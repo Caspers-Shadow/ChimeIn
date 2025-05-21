@@ -13,7 +13,7 @@ public partial class LoginPage : ContentPage
 		InitializeComponent();
 	}
 
-	private async void LoginClicked(object sender, EventArgs e)
+    private async void OnLoginClicked(object sender, EventArgs e)
 	{
 		string email = emailEntry.Text;
 		string password = passwordEntry.Text;
@@ -38,7 +38,7 @@ public partial class LoginPage : ContentPage
         }
     }
 
-	private async void RegisterClicked(object sender, EventArgs e)
+	private async void OnRegisterClicked(object sender, EventArgs e)
 	{
 		await Navigation.PushAsync(new RegisterPage());
     }

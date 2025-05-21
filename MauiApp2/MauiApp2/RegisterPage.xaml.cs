@@ -12,7 +12,7 @@ public partial class RegisterPage : ContentPage
 		InitializeComponent();
 	}
 
-	private async void RegisterClicked(object sender, EventArgs e)
+	private async void OnRegisterClicked(object sender, EventArgs e)
 	{
 		string username = usernameEntry.Text;
 		string email = emailEntry.Text;

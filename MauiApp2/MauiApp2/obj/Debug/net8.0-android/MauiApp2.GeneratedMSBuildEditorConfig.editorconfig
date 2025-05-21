@@ -18,6 +18,12 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/User/OneDrive/Documents/GitHub/ChimeIn/MauiApp2/MauiApp2/AddMoodPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.AddMoodPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddMoodPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddMoodPage.xaml
+
 [C:/Users/User/OneDrive/Documents/GitHub/ChimeIn/MauiApp2/MauiApp2/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.App.xaml
@@ -41,6 +47,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/User/OneDrive/Documents/GitHub/ChimeIn/MauiApp2/MauiApp2/MoodHistoryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.MoodHistoryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MoodHistoryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MoodHistoryPage.xaml
+
+[C:/Users/User/OneDrive/Documents/GitHub/ChimeIn/MauiApp2/MauiApp2/MoodPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp2.MoodPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MoodPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MoodPage.xaml
 
 [C:/Users/User/OneDrive/Documents/GitHub/ChimeIn/MauiApp2/MauiApp2/RegisterPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

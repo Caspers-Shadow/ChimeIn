@@ -1,0 +1,19 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp2.MoodHistoryPage"
+             Title="Mood History">
+
+    <CollectionView x:Name="moodListView" Margin="10">
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <Frame BorderColor="LightGray" Padding="10" Margin="5">
+                    <VerticalStackLayout>
+                        <Label Text="{Binding Timestamp}" FontAttributes="Bold" />
+                        <Label Text="{Binding MoodText}" LineBreakMode="WordWrap" />
+                        <Label Text="{Binding Notes}" FontAttributes="Italic" FontSize="14" TextColor="Gray" />
+                    </VerticalStackLayout>
+                </Frame>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+</ContentPage>

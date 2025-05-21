@@ -1,0 +1,17 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp2.MoodPage"
+             Title="Mood Dashboard">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label x:Name="welcomeLabel"
+               FontSize="24"
+               HorizontalOptions="Center" />
+
+        <Button Text="Log New Mood"
+                Clicked="OnLogMoodClicked" />
+
+        <Button Text="View Mood History"
+                Clicked="OnViewHistoryClicked" />
+    </VerticalStackLayout>
+</ContentPage>
