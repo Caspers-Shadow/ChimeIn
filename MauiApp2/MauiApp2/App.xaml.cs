@@ -6,7 +6,10 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            // Initialize the database here
+            DatabaseHere.InitializeDatabaseAsync().Wait();
+
+            MainPage = new NavigationPage(new LoginPage());
         }
     }
 }
