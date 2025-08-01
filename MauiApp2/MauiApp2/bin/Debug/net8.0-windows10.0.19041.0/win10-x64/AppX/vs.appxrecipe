@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-05-21T15:26:21.179</Modified>
+      <Modified>2025-05-22T08:40:18.159</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-05-21T15:26:20.668</Modified>
+      <Modified>2025-05-22T08:40:17.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.runtimeconfig.json">
       <PackagePath>MauiApp2.runtimeconfig.json</PackagePath>
-      <Modified>2025-05-21T15:26:20.112</Modified>
+      <Modified>2025-05-22T08:40:17.565</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.dll">
       <PackagePath>MauiApp2.dll</PackagePath>
-      <Modified>2025-05-21T15:26:19.229</Modified>
+      <Modified>2025-05-22T08:40:16.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp2.exe</PackagePath>
-      <Modified>2025-05-21T15:26:19.236</Modified>
+      <Modified>2025-05-22T08:40:16.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-05-19T15:05:06.858</Modified>
+      <Modified>2025-05-22T08:38:53.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-05-19T15:05:06.878</Modified>
+      <Modified>2025-05-22T08:38:53.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-05-19T15:05:06.904</Modified>
+      <Modified>2025-05-22T08:38:53.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-05-19T15:05:06.945</Modified>
+      <Modified>2025-05-22T08:38:53.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-05-19T15:05:07.095</Modified>
+      <Modified>2025-05-22T08:38:53.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,211 +83,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-05-19T15:05:08.265</Modified>
+      <Modified>2025-05-22T08:38:54.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.253</Modified>
+      <Modified>2025-05-22T08:38:54.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.252</Modified>
+      <Modified>2025-05-22T08:38:54.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.252</Modified>
+      <Modified>2025-05-22T08:38:54.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.252</Modified>
+      <Modified>2025-05-22T08:38:54.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.251</Modified>
+      <Modified>2025-05-22T08:38:54.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.261</Modified>
+      <Modified>2025-05-22T08:38:54.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.260</Modified>
+      <Modified>2025-05-22T08:38:54.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.260</Modified>
+      <Modified>2025-05-22T08:38:54.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.260</Modified>
+      <Modified>2025-05-22T08:38:54.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.260</Modified>
+      <Modified>2025-05-22T08:38:54.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.262</Modified>
+      <Modified>2025-05-22T08:38:54.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.262</Modified>
+      <Modified>2025-05-22T08:38:54.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.261</Modified>
+      <Modified>2025-05-22T08:38:54.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.261</Modified>
+      <Modified>2025-05-22T08:38:54.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.261</Modified>
+      <Modified>2025-05-22T08:38:54.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.265</Modified>
+      <Modified>2025-05-22T08:38:54.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.265</Modified>
+      <Modified>2025-05-22T08:38:54.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.264</Modified>
+      <Modified>2025-05-22T08:38:54.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.264</Modified>
+      <Modified>2025-05-22T08:38:54.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.264</Modified>
+      <Modified>2025-05-22T08:38:54.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.263</Modified>
+      <Modified>2025-05-22T08:38:54.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.263</Modified>
+      <Modified>2025-05-22T08:38:54.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.262</Modified>
+      <Modified>2025-05-22T08:38:54.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.263</Modified>
+      <Modified>2025-05-22T08:38:54.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.263</Modified>
+      <Modified>2025-05-22T08:38:54.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.256</Modified>
+      <Modified>2025-05-22T08:38:54.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.256</Modified>
+      <Modified>2025-05-22T08:38:54.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.256</Modified>
+      <Modified>2025-05-22T08:38:54.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.256</Modified>
+      <Modified>2025-05-22T08:38:54.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.254</Modified>
+      <Modified>2025-05-22T08:38:54.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.258</Modified>
+      <Modified>2025-05-22T08:38:54.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.257</Modified>
+      <Modified>2025-05-22T08:38:54.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.257</Modified>
+      <Modified>2025-05-22T08:38:54.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.257</Modified>
+      <Modified>2025-05-22T08:38:54.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.256</Modified>
+      <Modified>2025-05-22T08:38:54.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.259</Modified>
+      <Modified>2025-05-22T08:38:54.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.259</Modified>
+      <Modified>2025-05-22T08:38:54.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.259</Modified>
+      <Modified>2025-05-22T08:38:54.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.258</Modified>
+      <Modified>2025-05-22T08:38:54.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.258</Modified>
+      <Modified>2025-05-22T08:38:54.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.254</Modified>
+      <Modified>2025-05-22T08:38:54.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.254</Modified>
+      <Modified>2025-05-22T08:38:54.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.253</Modified>
+      <Modified>2025-05-22T08:38:54.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.253</Modified>
+      <Modified>2025-05-22T08:38:54.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.253</Modified>
+      <Modified>2025-05-22T08:38:54.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.267</Modified>
+      <Modified>2025-05-22T08:38:54.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.267</Modified>
+      <Modified>2025-05-22T08:38:54.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.267</Modified>
+      <Modified>2025-05-22T08:38:54.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.266</Modified>
+      <Modified>2025-05-22T08:38:54.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-05-19T15:05:08.266</Modified>
+      <Modified>2025-05-22T08:38:54.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\OneDrive\Documents\GitHub\ChimeIn\MauiApp2\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.deps.json">
       <PackagePath>MauiApp2.deps.json</PackagePath>
-      <Modified>2025-05-21T15:26:20.045</Modified>
+      <Modified>2025-05-22T08:40:17.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

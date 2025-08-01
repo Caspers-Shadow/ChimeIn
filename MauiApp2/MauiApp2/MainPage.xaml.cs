@@ -7,6 +7,7 @@
         public MainPage()
         {
             InitializeComponent();
+            Content = new Label { Text = "Hello Maui" };
         }
 
         private void OnCounterClicked(object sender, EventArgs e)
